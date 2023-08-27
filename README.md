@@ -23,10 +23,10 @@
 </div>
 </div>
 <div class="cardInside">
-    <h3 class="back">HAPPY BIRTHDAY!</h3>
-    <p contenteditable="true">Dear best friend,</p> 
-    <p contenteditable="true">Happy birthday!! I hope your day is filled with lots of love and laughter! May all of your birthday wishes come true.</p>
-    <p contenteditable="true" class="name">Praween</p>
+    <h3 class="back">HAPPY BIRTHDAY...</h3>
+    <p contenteditable="true">Dear Ma,</p> 
+    <p contenteditable="true">Happy birthday!! Sorry dahil wala akong lakas ng loob para makita kayo, takot pa kong harapin kayo. Na baka galit parin kayo saakin. pero ma mahal na mahal ko kayo.</p>
+    <p contenteditable="true" class="name">Danica</p>
   </div>
 </div>
 </div>
